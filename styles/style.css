@@ -1,0 +1,96 @@
+/* Start Body */
+body {
+    font-family: Helvetica, Arial, Sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+} 
+/* End Body */
+
+/* Start Debug */
+.bg-purple {
+    background-color:purple;
+}
+
+.bg-rgb {
+    background-color:rgb(218, 165, 204);
+}
+/* End Debug */
+
+/* Start Container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 90%;
+}
+
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 100%;
+}
+/* End Container */
+
+/* Start Logo */
+.logo {
+    text-align: center;
+}
+
+/* End Logo */
+
+/* Start Menu Primer */
+.menu-primer ul {
+    background-color: violet;
+    border-radius: 4px;
+}
+.menu-primer li {
+    border-right: 1px solid #d1d5da;
+    display: inline-block;
+}
+.menu-primer a {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+/* End Menu Primer */
+
+/* Start Main */
+.main-home-one {
+    float: right;
+    width: 49.5 %;                                                                               
+.main-home-two {
+    float: left;
+    width: 49.5%;
+}
+
+.main-home-one .bos-isi,
+.main-home-two .box-isi {
+    height: 140px                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+}
+/* End Main */
+
+/* Start Box */
+.box-heading {
+    background-color: #f6f8fa;
+    border: 1px solid #d1d5da;
+    border-radius: 3px 3px 0 0;
+    margin: 0;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+.box-heading h4 {
+    font-size: 14px;
+    margin: 0;
+}
+
+.box-isi {
+    background-color: #ffffff;
+    border: 1px solid #eaecef;
+    border-top: 0;
+    margin: 0;
+    padding: 10px 20px;
+}
+/* End Box */
